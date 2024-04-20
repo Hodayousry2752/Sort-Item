@@ -1,0 +1,11 @@
+.drop-target {
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 2px dashed #007bff; /* Blue dashed border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light gray background */
+    color: #007bff; /* Blue text color */
+    font-weight: bold; /* Bold text */
+    text-align: center; /* Centered text */
+    cursor: pointer; /* Change cursor on hover */
+  }
